@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:air"
+            "id": "minecraft:copper_door"
         },
-        "title": "Craftable Air",
-        "description": "Craft Air from Air!",
+        "title": "Copper Door Cutting",
+        "description": "Adds recipes for all copper doors and trapdoors to the stonecutter!",
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false
