@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
+  "ingredient": [
     "minecraft:copper_block"
-  },
+  ],
   "result": {
     "id": "minecraft:copper_door",
     "count": 3
